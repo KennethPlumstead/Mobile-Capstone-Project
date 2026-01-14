@@ -91,4 +91,12 @@ The goal of this capstone project is to demonstrate:
 
 ## Screenshots
 
-_Add screenshots of the Home and Detail screens here._
+### Home Screen
+Browse livestock listings with filters for species, location, price range, and search.
+
+<img src="screenshots/home-screen.png" width="300" />
+
+### Listing Detail Screen
+View detailed listing information with images and a prototype contact action.
+
+<img src="screenshots/detail-screen.png" width="300" />
