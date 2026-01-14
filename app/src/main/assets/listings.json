@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Registered Boer Buck",
+    "species": "Goat",
+    "price": 800,
+    "location": "Georgina, ON",
+    "description": "Healthy, proven sire. Vaccinated. Good temperament.",
+    "images": [
+      "https://placehold.co/900x600/png?text=GOAT+PHOTO+1",
+      "https://placehold.co/900x600/png?text=GOAT+PHOTO+2"
+    ],
+    "sellerName": "Plumstead Acres",
+    "contactHint": "Call/text for details"
+  },
+  {
+    "id": "2",
+    "title": "Heritage Laying Hens (x6)",
+    "species": "Chicken",
+    "price": 120,
+    "location": "Brock, ON",
+    "description": "Great layers. Calm flock. Ready for new coop.",
+    "images": [
+      "https://placehold.co/900x600/png?text=CHICKEN+PHOTO+1",
+      "https://placehold.co/900x600/png?text=CHICKEN+PHOTO+2"
+    ],
+    "sellerName": "North Field Farm",
+    "contactHint": "Contact to arrange pickup"
+  },
+  {
+    "id": "3",
+    "title": "Grass-fed Beef Steer",
+    "species": "Cattle",
+    "price": 2400,
+    "location": "Lindsay, ON",
+    "description": "Grass-fed, well handled. Transport available nearby.",
+    "images": [
+      "https://placehold.co/900x600/png?text=CATTLE+PHOTO+1",
+      "https://placehold.co/900x600/png?text=CATTLE+PHOTO+2"
+    ],
+    "sellerName": "Valley Ridge",
+    "contactHint": "Message for availability"
+  }
+]
